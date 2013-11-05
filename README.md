@@ -20,6 +20,6 @@ I think there is some interesting design space that is unexplored by Magic in th
 
 # To do
 
-- [ ] We need a resource system.
-- [ ] We need a combat system.
-- [ ] We need a flavorful theme.
+-[ ] We need a resource system.
+-[ ] We need a combat system.
+-[ ] We need a flavorful theme.
