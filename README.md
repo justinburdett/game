@@ -25,6 +25,8 @@ I think there is some interesting design space that is unexplored by Magic in th
 
 I'm currently thinking about setting the game in a futuristic world in which two combatants fight in a holographic computer simulation. Culturally, these matches are akin to boxing or other individual sports of our world: there are spectators and winners in these battles are held in high esteem. Like any good game, the game can evolve over time - meaning new cards, expansions and changes to gameplay.
 
+Since this sport is so popular, many of the megacorporations that exist in this time have great interest in both advertising and influencing the outcome of a match. For example, if a player wins the match using a sponsored technology brings them great publicity. This could be a way to introduce the concept of "factions" or "colors" to the game.
+
 The resource system might be something like "computer memory" to run "programs."
 
 # To do
