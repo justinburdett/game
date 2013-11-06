@@ -39,3 +39,7 @@ The resource system might be something like "computer memory" to run "programs."
 
 - We need a resource system.
 - We need a combat system.
+
+# License
+
+The work in this repo is available under a Creative Commons BY-NC-SA 2.0 license, same as [Cards Against Humanity](http://cardsagainsthumanity.com). That means you can use and remix the content for free, but you can’t sell it.
