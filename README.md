@@ -10,6 +10,12 @@ The following information about the game is set in stone:
 
 I'm exploring most of the other details about the game now. Over time, this list will evolve.
 
+# How can I help?
+
+Since this is a public repo, anyone can contribute. In the short term, this is probably not that meaningful. In the future, that probably means being able to fix typos, suggest a new card and more.
+
+For the time being, the best way to help is to check out our [issue tracker](http://github.com/jburdeezy/game/issues) and response to any open questions with feedback, or open a new issue if you have a good idea.
+
 # Currently Exploring
 
 I am currently exploring a gameplay inspired by a variant of Magic: the Gathering called [Wizards Tower](http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/257b). This means the game will have:
