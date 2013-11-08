@@ -1,0 +1,3 @@
+card:
+  name: "Generic Discard Effect"
+  effect: "Choose a card in the row. Place it in the discard pile."
