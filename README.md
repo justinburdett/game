@@ -2,7 +2,7 @@
 
 I'm designing a game from scratch. I'm experimenting by creating the game using GitHub to both collaborate and produce prototypes. My hope is that my playtesters and fans will get to collaborate with me directly while we build the game.
 
-My game is a non-collectible strategy card game for 2 players competing against each other. It is inspired by a Magic: the Gathering variant called (Wizards Tower)[http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/257b], which combines neat elements of deckbuilding and shared deck card games.
+My game is a non-collectible strategy card game for 2 players competing against each other. It is inspired by a Magic: the Gathering variant called [Wizards Tower](http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/257b), which combines neat elements of deckbuilding and shared deck card games.
 
 # How can I help?
 
